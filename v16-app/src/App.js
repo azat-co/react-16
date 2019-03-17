@@ -5,7 +5,7 @@ import HOCDemo from './HOCDemo';
 import withHOC from './withHOC';
 import FragmentDemo from './FragmentDemo';
 import StringDemo from './StringDemo';
-import ArrayDemo from './StringDemo';
+import ArrayDemo from './ArrayDemo';
 import PortalDemo from './PortalDemo';
 import HookDemo from './HookDemo';
 
