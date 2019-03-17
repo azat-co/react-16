@@ -3,10 +3,10 @@ import React from 'react';
 // We can pass props like key too
 function FragmentDemo() {
   return (
-    <React.Fragment>
+    <>
       <td>Hello</td>
       <td>World</td>
-    </React.Fragment>
+    </>
   );
 }
 
